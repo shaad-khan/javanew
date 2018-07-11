@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="51547" started-at="2018-06-28T10:47:10Z" finished-at="2018-06-28T10:48:02Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="51547" started-at="2018-06-28T10:47:10Z" finished-at="2018-06-28T10:48:02Z">
+      <class name="com.acuitybrands.aatf.allspice.adminui.UserAssignmentCreationTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.acuitybrands.aatf.allspice.adminui.UserAssignmentCreationTest@724af044]" name="setup" is-config="true" duration-ms="5868" started-at="2018-06-28T16:17:10Z" finished-at="2018-06-28T16:17:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="UserAssignmentCreate()[pri:0, instance:com.acuitybrands.aatf.allspice.adminui.UserAssignmentCreationTest@724af044]" name="UserAssignmentCreate" duration-ms="45628" started-at="2018-06-28T16:17:16Z" finished-at="2018-06-28T16:18:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UserAssignmentCreate -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.acuitybrands.aatf.allspice.adminui.UserAssignmentCreationTest@724af044]" name="teardown" is-config="true" duration-ms="0" started-at="2018-06-28T16:18:02Z" finished-at="2018-06-28T16:18:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.acuitybrands.aatf.allspice.adminui.UserAssignmentCreationTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
